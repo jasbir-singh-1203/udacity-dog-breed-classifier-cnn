@@ -23,16 +23,17 @@ Detect Dog Breed: CNN model from scratch and CNN model (ResNet50) were trained u
 # 4. Model evaluation
 Models are evaluated using Accuracy, Precision, Recall and F1 score metrics.
 1. CNN model from scratch:
-Test Accuracy: 14% (974/6680)
-Test Precision score: 0.2170
-Test Recall score: 0.1429
-Test F1 score: 0.1262
+
+  * Test Accuracy: 14% (974/6680)
+  * Test Precision score: 0.2170
+  * Test Recall score: 0.1429
+  * Test F1 score: 0.1262
 
 2. CNN model using ResNet50 with transfer learning:
-Test Accuracy: 74% (4945/6680)
-Test Precision score: 0.7641
-Test Recall score: 0.7221
-Test F1 score: 0.7260
+  * Test Accuracy: 74% (4945/6680)
+  * Test Precision score: 0.7641
+  * Test Recall score: 0.7221
+  * Test F1 score: 0.7260
 
 ---
 # 5. Results
