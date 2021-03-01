@@ -38,4 +38,28 @@ Test F1 score: 0.7260
 # 5. Results
 Both the models, CNN from scratch and Pre-trained ResNet50 CNN with transfer learning achieved the expected test accuracies of >=10% and >=60% respectively.
 
+Sample results:
 
+Human detected!
+
+![Sample-output-4](https://user-images.githubusercontent.com/53274809/109547101-9e05ed80-7a90-11eb-8cf4-96767f2aa09c.png)
+
+You look like a  Bull terrier
+
+Human detected!
+
+![Sample-output-3](https://user-images.githubusercontent.com/53274809/109547248-c5f55100-7a90-11eb-8cae-33b449bfd712.png)
+
+You look like a  American water spaniel
+
+Dog detected!
+
+![Sample-output-2](https://user-images.githubusercontent.com/53274809/109547475-0654cf00-7a91-11eb-8bfc-828e79651749.png)
+
+Detected breed is:  Irish red and white setter
+
+Dog detected!
+
+![Sample-output-1](https://user-images.githubusercontent.com/53274809/109547426-f76e1c80-7a90-11eb-933c-7e55c3eb0549.png)
+
+Detected breed is:  Labrador retriever
